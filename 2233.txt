@@ -13,6 +13,7 @@ Author: P. G. Wodehouse
 Posting Date: September 12, 2012 [EBook #2233]
 Release Date: June, 2000
 Last Updated: September 6, 2008
+Last Updated: July 29, 2016
 
 Language: English
 
@@ -147,10 +148,10 @@ land of enthusiastic amateur gardeners. He lived for his garden.
 The love which other men expend on their nearest and dearest Lord
 Marshmoreton lavished on seeds, roses and loamy soil. The hatred
 which some of his order feel for Socialists and Demagogues Lord
-Marshmoreton kept for roseslugs, rose-beetles and the small,
+Marshmoreton kept for rose slugs, rose-beetles and the small,
 yellowish-white insect which is so depraved and sinister a
 character that it goes through life with an alias--being sometimes
-called a rose-hopper and sometimes a thrips. A simple soul, Lord
+called a rose-hopper and sometimes a thrip. A simple soul, Lord
 Marshmoreton--mild and pleasant. Yet put him among the thrips, and
 he became a dealer-out of death and slaughter, a destroyer in the
 class of Attila the Hun and Genghis Khan. Thrips feed on the
@@ -166,7 +167,7 @@ when, egged on by Lady Caroline, who gave him no rest in the
 matter--he would retire to his private study and work on his
 History of the Family, assisted by his able secretary, Alice
 Faraday. His progress on that massive work was, however, slow. Ten
-hours in the open air made a man drowsy, and too often Lord
+hours in the open air make a man drowsy, and too often Lord
 Marshmoreton would fall asleep in mid-sentence to the annoyance of
 Miss Faraday, who was a conscientious girl and liked to earn her
 salary.
@@ -1459,7 +1460,7 @@ caught sight of her, distance had hidden from his view, now
 presented themselves. Her eyes, he discovered, which he had
 supposed brown, were only brown in their general colour-scheme.
 They were shot with attractive little flecks of gold, matching
-perfectly the little streaks gold which the sun, coming out again
+perfectly the little streaks of gold which the sun, coming out again
 on one of his flying visits and now shining benignantly once more on
 the world, revealed in her hair. Her chin was square and
 determined, but its resoluteness was contradicted by a dimple and
@@ -2201,7 +2202,7 @@ the garage, and then I'll be with you."
 
 He climbed to the steering wheel, and started the engine. Lord
 Belpher proceeded to the library, while Keggs melted away through
-the green baize door at the end of the hail which divided the
+the green baize door at the end of the hall which divided the
 servants' quarters from the rest of the house.
 
 Reggie had hardly driven a dozen yards when he perceived his
@@ -2505,7 +2506,7 @@ London? Reggie says that policemen dive down manholes when they see
 you coming."
 
 The chill in the air would have daunted a less courageous girl.
-Lady Caroline had risen, and was staring sternly. Percy was pulling
+Lady Caroline had risen, and was staring sternly. Percy was puffing
 the puffs of an overwrought soul. Lord Marshmoreton, whose thoughts
 had wandered off to the rose garden, pulled himself together and
 tried to look menacing. Maud went on without waiting for a reply.
@@ -2763,28 +2764,27 @@ his foreward movement on the castle, selected as his base the
 Marshmoreton Arms. Selected is perhaps hardly the right word, as it
 implies choice, and in George's case there was no choice. There are
 two inns at Belpher, but the Marshmoreton Arms is the only one that
-offers accommodation for man and beast, assuming--that is to
-say--that the man and beast desire to spend the night. The other
-house, the Blue Boar, is a mere beerhouse, where the lower strata
-of Belpher society gather of a night to quench their thirst and to
-tell one another interminable stories without any point whatsoever.
-But the Marshmoreton Arms is a comfortable, respectable hostelry,
-catering for the village plutocrats. There of an evening you will
-find the local veterinary surgeon smoking a pipe with the grocer,
-the baker, and the butcher, with perhaps a sprinkling of
-neighbouring farmers to help the conversation along. There is a
-"shilling ordinary"--which is rural English for a cut off the joint
-and a boiled potato, followed by hunks of the sort of cheese which
-believes that it pays to advertise, and this is usually well
-attended. On the other days of the week, until late in the evening,
-however, the visitor to the Marshmoreton Arms has the place almost
-entirely to himself.
+offers accommodation for man and beast, assuming--that is to say--that
+the man and beast desire to spend the night. The other house, the Blue
+Boar, is a mere beerhouse, where the lower strata of Belpher society
+gather of a night to quench their thirst and to tell one another
+interminable stories without any point whatsoever. But the Marshmoreton
+Arms is a comfortable, respectable hostelry, catering for the village
+plutocrats. There of an evening you will find the local veterinary
+surgeon smoking a pipe with the grocer, the baker, and the butcher, with
+perhaps a sprinkling of neighbouring farmers to help the conversation
+along. On Saturdays there is a "shilling ordinary"--which is rural
+English for a cut off the joint and a boiled potato, followed by hunks
+of the sort of cheese which believes that it pays to advertise, and this
+is usually well attended. On the other days of the week, until late in
+the evening, however, the visitor to the Marshmoreton Arms has the place
+almost entirely to himself.
 
 It is to be questioned whether in the whole length and breadth of
 the world there is a more admirable spot for a man in love to pass
 a day or two than the typical English village. The Rocky Mountains,
 that traditional stamping-ground for the heartbroken, may be well
-enough in their way; but a lover has to be cast in a pretty stem
+enough in their way; but a lover has to be cast in a pretty stern
 mould to be able to be introspective when at any moment he may meet
 an annoyed cinnamon bear. In the English village there are no such
 obstacles to meditation. It combines the comforts of civilization
@@ -2903,7 +2903,7 @@ It speedily became evident to George that "a step" was a euphemism.
 Five miles did he tramp before, trudging wearily up a winding lane,
 he came out on a breeze-swept hill-top, and saw below him, nestling
 in its trees, what was now for him the centre of the world. He sat
-on a stone wail and lit a pipe. Belpher Castle. Maud's home. There
+on a stone wall and lit a pipe. Belpher Castle. Maud's home. There
 it was. And now what?
 
 The first thought that came to him was practical, even prosaic--
@@ -3110,7 +3110,7 @@ had ebbed away.
 Keggs, the butler, always looked forward to Thursdays with
 pleasurable anticipation. He enjoyed the sense of authority which
 it gave him to herd these poor outcasts to and fro among the
-surroundings which were an every-day commonplace to himself. Also
+surroundings which were an everyday commonplace to himself. Also
 he liked hearing the sound of his own voice as it lectured in
 rolling periods on the objects of interest by the way-side. But
 even to Keggs there was a bitter mixed with the sweet. No one was
@@ -3137,7 +3137,7 @@ some visitor, strayed from the main herd, came upon him as he
 worked and mistook him for one of the gardeners, he accepted the
 error without any attempt at explanation, sometimes going so far as
 to encourage it by adopting a rustic accent in keeping with his
-appearance. This sort thing tickled the simple-minded peer.
+appearance. This sort of thing tickled the simple-minded peer.
 
 George joined the procession punctually at two o'clock, just as
 Keggs was clearing his throat preparatory to saying, "We are now in
@@ -3339,7 +3339,7 @@ note to Maud.
 In his late rambles about Belpher Castle in the company of Keggs
 and his followers, George had been privileged to inspect the
 library. It was an easily accessible room, opening off the main
-hail. He left Billie and her new friend deep in a discussion of
+hall. He left Billie and her new friend deep in a discussion of
 slugs and plant-lice, and walked quickly back to the house. The
 library was unoccupied.
 
@@ -5524,7 +5524,7 @@ if adopted by David towards Jonathan. He seemed to spend all his
 spare time frolicking with the man on the golf-links and hobnobbing
 with him in his house.
 
-Lord Belpber was thoroughly upset. It was impossible to prove it or
+Lord Belpher was thoroughly upset. It was impossible to prove it or
 to do anything about it now, but he was convinced that the fellow
 had wormed his way into the castle in the guise of a waiter. He had
 probably met Maud and plotted further meetings with her. This thing
@@ -5786,7 +5786,7 @@ Have you no self-respect? Do you never search your heart and
 shudder at the horrible degradation which you have brought on
 yourself by sheer weakness of will?"
 
-He raise his voice. The subject of Temperance was one very near to
+He raised his voice. The subject of Temperance was one very near to
 the curate's heart. The vicar himself had complimented him only
 yesterday on the good his sermons against the drink evil were doing
 in the village, and the landlord of the Three Pigeons down the road
@@ -6386,7 +6386,7 @@ courage to dismiss Alice. In the hands of that calm-eyed girl he
 was as putty. She exercised over him the hypnotic spell a
 lion-tamer exercises over his little playmates.
 
-"We have been pals for years," said George "Billie is one of the
+"We have been pals for years," said George. "Billie is one of the
 best fellows in the world."
 
 "A charming girl."
@@ -7429,7 +7429,7 @@ Fool's Paradise and Reggie who had borne a weight of care. Reggie
 this morning was brighter than the shining sun and gayer than the
 carolling birds.
 
-"Hullo-ullo-ullo-ullo-ullo-ullo-ul-Lo! Topping morning, isn't it!"
+"Hullo-ullo-ullo-ullo-ullo-ullo-ul-lo! Topping morning, isn't it!"
 observed Reggie. "The sunshine! The birds!  The absolute
 what-do-you-call-it of everything and so forth, and all that sort
 of thing, if you know what I mean! I feel like a two-year-old!"
@@ -7440,7 +7440,7 @@ groaned in spirit. This was more than man was meant to bear.
 "I say," continued Reggie, absently reaching out for a slice of
 bread and smearing it with marmalade, "this business of marriage,
 now, and all that species of rot! What I mean to say is, what about
-it? Not a bad scheme, taking it big and large?  Or don't you think
+it? Not a bad scheme, taking it by and large?  Or don't you think
 so?"
 
 George writhed. The knife twisted in the wound. Surely it was bad
@@ -7566,7 +7566,7 @@ again next day. However, we shall be all right unless we have a
 breakdown, and there's not much chance of that. I've been tuning up
 the old car since seven this morning, and she's sound in wind and
 limb, absolutely. Oil--petrol--water--air--nuts--bolts--sprockets--
-carburetter--all present and correct. I've been looking after them
+carburetor--all present and correct. I've been looking after them
 like a lot of baby sisters. Well, as I was saying, I've got the
 dope. A week ago I was just one of the mugs--didn't know a thing
 about it--but now! Gaze on me, laddie! You see before you old
@@ -7770,7 +7770,7 @@ a warning undertone, and "All right darling!" replied the dutiful
 groom)--and raised his own to his lips.
 
 "Cheerio! Here's to us all! Maddest, merriest day of all the glad
-New year and so forth. And now," he continued, becoming sternly
+New Year and so forth. And now," he continued, becoming sternly
 practical, "about the good old sequel and aftermath, so to speak,
 of this little binge of ours. What's to be done. You're a brainy
 sort of feller, Bevan, old man, and we look to you for suggestions.
@@ -8873,7 +8873,7 @@ disapproval.
 
 "I think he's conceited."
 
-"Surely not? 'What could he have to be conceited about?"
+"Surely not? What could he have to be conceited about?"
 
 "He's stiff."
 
@@ -8988,7 +8988,7 @@ Spring'?"
 
 "I'm afraid I haven't."
 
-"He's wonderful. Have you see Cynthia Dane in 'A Woman's No'?"
+"He's wonderful. Have you seen Cynthia Dane in 'A Woman's No'?"
 
 "I missed that one too."
 
